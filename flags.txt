@@ -1,0 +1,9 @@
+`pkg-config gtkmm-3.0 --cflags --libs`
+`pkg-config gtk+-3.0 --cflags --libs`
+-lmysqlcppconn
+`mysql_config --cflags --libs`
+`pkg-config --cflags --libs sdl2`
+-ljansson
+-lconfig
+-lsocket : -lnsl
+-lPocoNet : -lPocoFoundation

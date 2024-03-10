@@ -6,6 +6,7 @@
 #include <cstdarg>
 #include <cstdarg>
 #include <cstddef>
+#include <atomic>
 #include <string>
 #include <chrono>
 #include <cstring>

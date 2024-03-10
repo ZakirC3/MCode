@@ -19,5 +19,4 @@
 #include <pthread.h>
 
 #define MAX_SIZE 1024
-
-typedef char* string;
+#define STRING char*

@@ -7,3 +7,6 @@
 -lconfig
 -lsocket : -lnsl
 -lPocoNet : -lPocoFoundation
+-lSDL2_mixer
+-lSDL2
+-lSDL2_image

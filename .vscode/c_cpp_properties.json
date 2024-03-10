@@ -7,7 +7,8 @@
                 "/usr/include/**",
                 "/usr/**",
                 "/usr/lib/**",
-                "/home/zakir/Headers/**"
+                "/home/zakir/Headers/**",
+                "/usr/include/glibmm-2.4"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
